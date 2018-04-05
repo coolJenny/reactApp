@@ -4,10 +4,7 @@
   "description": "this is my first react app",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --hot",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "start": "webpack-dev-server --hot"
   },
   "author": "cool",
   "license": "ISC",
