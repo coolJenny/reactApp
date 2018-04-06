@@ -4,7 +4,7 @@
   "description": "this is my first react app",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --hot"
+    "start": "webpack-dev-server"
   },
   "author": "cool",
   "license": "ISC",
